@@ -2,7 +2,11 @@
 
 A production-ready Flask REST API that serves predictions from a LightGBM sales forecasting model. The API is containerized using Docker for easy deployment and scalability.
 
+⬇️ **Click the image below to watch on YouTube** ⬇️
+
 [![Watch Demo on YouTube](https://img.youtube.com/vi/WkoF2_-SaKg/0.jpg)](https://youtu.be/WkoF2_-SaKg)
+
+**Direct Link to Video:** [https://youtu.be/WkoF2_-SaKg](https://youtu.be/WkoF2_-SaKg)
 
 ## Features
 
