@@ -1,0 +1,11 @@
+flask
+pandas
+numpy
+lightgbm
+scikit-learn
+joblib
+requests # For testing
+pytest  # For alternative testing
+matplotlib
+seaborn
+docker
